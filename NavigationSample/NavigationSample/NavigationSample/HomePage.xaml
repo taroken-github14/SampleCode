@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavigationSample.HomePage"
+             BackgroundColor="White"
+             Title="Book9-Login">
+
+
+  <!-- Padding 内側の余白 -->
+  <StackLayout BackgroundColor="White" Padding="60" VerticalOptions="Center">
+
+    <!-- 自己紹介表示ラベル -->
+    <Label x:Name="ErrorMessageLabel" TextColor="Red"
+            FontSize="10"
+           FontFamily="Meiryo"/>
+
+    <!-- 名前入力欄 -->
+    <!-- Grid 表のようにレイアウトを配置できるレイアウト -->
+    <Label x:Name="LoginTitleLabel"
+      Text="UserID"
+     TextColor="Black"
+     
+           FontFamily="Meiryo"/>
+    <Grid Padding="0,0,0,50">
+
+      <Entry x:Name="UserId"
+             BackgroundColor="White" />
+    </Grid>
+    <Label x:Name="PasswordTitleLabel"
+              Text="Password"
+             TextColor="Black"
+   
+           FontFamily="Meiryo"/>
+    <Grid Padding="0,0,0,50">
+
+      <Entry x:Name="Password"
+             BackgroundColor="White" />
+    </Grid>
+
+
+
+    <!-- 自己紹介ボタン -->
+    <Button Clicked="Button_OnClicked"
+            Text="ログイン"
+            BackgroundColor="White"
+            TextColor="Black"
+            FontFamily="Meiryo"/>
+
+  </StackLayout>
+
+</ContentPage>
