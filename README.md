@@ -1,1 +1,4 @@
 # SampleCode
+
+##testmember
+*test
