@@ -1,47 +1,47 @@
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\NavigationSample.Droid.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\FormsViewGroup.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Java.Interop.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Mono.Android.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\mscorlib.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Core.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\NavigationSample.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Collections.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ObjectModel.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Globalization.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ComponentModel.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Reflection.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.IO.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Threading.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Linq.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Net.Http.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-c:\Users\z00h807458.RFG\Documents\Visual Studio 2015\Projects\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\NavigationSample.Droid.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Java.Interop.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\Mono.Android.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\mscorlib.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Core.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\NavigationSample.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Collections.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ObjectModel.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Globalization.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ComponentModel.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Reflection.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Linq.Expressions.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.IO.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Threading.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.Extensions.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Linq.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Reflection.Extensions.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Net.Http.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+D:\taroken-github14\SampleCode\NavigationSample\NavigationSample\NavigationSample.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
